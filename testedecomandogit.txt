@@ -4,3 +4,5 @@ versão 3
 versão 4
 versão 5
 versão 6
+versão 7
+versão 8
